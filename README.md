@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @axelcarl
+- 👀 I’m interested in Web Development, Back-end/ Full-stack.
+- 🌱 I’m currently learning via CS50 and The Odin Project.
